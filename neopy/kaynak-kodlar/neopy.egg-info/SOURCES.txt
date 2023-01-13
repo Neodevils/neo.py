@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+neopy/kaynak-kodlar/neopy.egg-info/PKG-INFO
+neopy/kaynak-kodlar/neopy.egg-info/SOURCES.txt
+neopy/kaynak-kodlar/neopy.egg-info/dependency_links.txt
+neopy/kaynak-kodlar/neopy.egg-info/top_level.txt
+neopy/kaynak-kodlar/neopy.egg-info/PKG-INFO
+neopy/kaynak-kodlar/neopy.egg-info/SOURCES.txt
+neopy/kaynak-kodlar/neopy.egg-info/dependency_links.txt
+neopy/kaynak-kodlar/neopy.egg-info/top_level.txt
